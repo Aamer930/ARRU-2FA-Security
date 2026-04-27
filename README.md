@@ -140,6 +140,25 @@ The following considerations apply to any production deployment of this pattern:
 
 ---
 
+## Team
+
+| Name | Role |
+|---|---|
+| Ahmed Aamer | Developer |
+| Ahmed Karim | Developer |
+
+**Supervisor:** Dr. Ehab Abo Seif
+
+---
+
+## For Students
+
+This project is open source and free to use. If you are a student studying cybersecurity or authentication concepts, feel free to clone it, learn from it, build on top of it, or use it as a reference for your own coursework. That is exactly what it is here for.
+
+If you improve it, consider contributing back so other students benefit too.
+
+---
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -149,6 +168,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 <div align="center">
 
 Built for CCY2001 — Introduction to Cyber Security · Arab Academy for Science, Technology and Maritime Transport (AASTMT)  
-Computer Science — Cyber Security Department · Supervised by Dr. Ehab Abo Seif · Ahmed Aamer · 2026
+Computer Science — Cyber Security Department · Supervised by Dr. Ehab Abo Seif  
+Ahmed Aamer & Ahmed Karim · 2024
 
 </div>
